@@ -3,7 +3,8 @@
 
 paper: Epigenetic traits inscribed in chromatin accessibility in aged hematopoietic stem cells 
 <br>
-https://github.com/mariyagolchin/implementing-Epigenetic-traits-inscribed-in-chromatin-accessibility-in-aged-hematopoietic-stem-cells/blob/main/GSE162662_RAW_paper__Epigenetic%20traits%20inscribed%20in%20chromatin.pdf
+[Epigenetic traits inscribed in chromatin accessibility in aged hematopoietic stem cells ](https://www.nature.com/articles/s41467-022-30440-2)
+
 
 
 <br>
