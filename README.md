@@ -1,17 +1,14 @@
 # single cell ATAC data analysis in R
 
 
-Implement Paper: 
-<br>
-[Epigenetic traits inscribed in chromatin accessibility in aged hematopoietic stem cells ](https://www.nature.com/articles/s41467-022-30440-2)
+Implement Paper:[Epigenetic traits inscribed in chromatin accessibility in aged hematopoietic stem cells](https://www.nature.com/articles/s41467-022-30440-2)
 
 <br>
 
-[Code ](https://github.com/mariyagolchin/implementing-Epigenetic-traits-inscribed-in-chromatin-accessibility-in-aged-hematopoietic-stem-cells/blob/main/code_run_done/1-code.r)
+Code: [Link ](https://github.com/mariyagolchin/implementing-Epigenetic-traits-inscribed-in-chromatin-accessibility-in-aged-hematopoietic-stem-cells/blob/main/code_run_done/1-code.r)
+
 <br>
-<br>
-Refferences:
-https://www.youtube.com/watch?v=e2396GKFMRY
+Refferences: [Link](https://www.youtube.com/watch?v=e2396GKFMRY)
 
 
 <br>
