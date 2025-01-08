@@ -6,7 +6,7 @@ Implement Paper:
 [Epigenetic traits inscribed in chromatin accessibility in aged hematopoietic stem cells ](https://www.nature.com/articles/s41467-022-30440-2)
 
 <br>
-code: https://github.com/mariyagolchin/implementing-Epigenetic-traits-inscribed-in-chromatin-accessibility-in-aged-hematopoietic-stem-cells/blob/main/code_run_done/1-code.r
+[Code:](https://github.com/mariyagolchin/implementing-Epigenetic-traits-inscribed-in-chromatin-accessibility-in-aged-hematopoietic-stem-cells/blob/main/code_run_done/1-code.r)
 <br>
 <br>
 Refferences:
